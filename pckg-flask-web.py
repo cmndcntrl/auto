@@ -13,6 +13,7 @@ pip_packages = [
     "psycopg2-binary",
     "Werkzeug",
     "flask_wtf",
+    "flask_migrate",
     "bcrypt"
 ]
 
